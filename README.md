@@ -89,6 +89,6 @@ Full charts and detailed discussion are in `AI_Travel_Analyst_Part1_Report.html`
 - Extend to Part 2: feature engineering and a price-prediction model using distance, duration, and travel class as core features.
 - Add interactive filtering (e.g. an interactive dashboard) to let users explore price by route pair directly.
 
-## Screenshots
-See `AI_Travel_Analyst_Part1_Report.html` for all 9 charts embedded inline with captions,
-including price distribution, price-by-airline, price-vs-distance, and the correlation matrix.
+## Demo
+Demo link: 
+https://youtu.be/KispZaREP0M
