@@ -66,7 +66,6 @@ removing those, 4,999 real records remained; after further cleaning (removing 1 
 - Python 3
 - pandas, NumPy — data cleaning and analysis
 - matplotlib, seaborn — visualization
-- HTML/CSS — final report formatting
 
 ## Results
 - **Distance** and **Duration** are the strongest numeric drivers of price (correlation 0.69 and 0.67 with Price).
